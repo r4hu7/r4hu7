@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Ramesh</h1>
-<h3 align="center">A passionate developer at PES University Student</h3>
+<h3 align="center">A passionate developer at PES University</h3>
 
 - 🔭 I’m currently working on **on Data Analytics**
 
